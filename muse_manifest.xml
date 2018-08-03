@@ -1,0 +1,38 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test.com" resolutions="1x" timestamp="1533293409130">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3872236703" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="help1.png" crc="4180680588" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="help2.png" crc="4067856203" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sm1.png" crc="69447678" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sm2.png" crc="521898688" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ts1.png" crc="48144963" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ts2.png" crc="3782697024" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.png" crc="467950220" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4125625529" seo="true" mt="1533293320308" redirect="true"/>
+</manifest>
